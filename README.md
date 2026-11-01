@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://safiramendes.com/?utm_source=github&utm_medium=profile&utm_campaign=readme"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-7b00ff?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/safiramendes"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://safiramendes.com/cv/safira-mendes-curriculo-pt.pdf"><img alt="Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo%20(PDF)-161616?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://safiramendes.com/curriculo?utm_source=github&utm_medium=profile&utm_campaign=readme"><img alt="Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo-161616?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
 <p align="center">
